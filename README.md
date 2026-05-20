@@ -14,8 +14,6 @@ Passionate about building scalable applications, modern mobile experiences, and 
 
 <p align="center">
 
-<img src="https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
-
 <img src="https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white"/>
 
 <img src="https://img.shields.io/badge/flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white"/>
@@ -52,6 +50,8 @@ Passionate about building scalable applications, modern mobile experiences, and 
 
 <img src="https://img.shields.io/badge/apache-D22128?style=for-the-badge&logo=apache&logoColor=white"/>
 
+<img src="https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+
 <img src="https://img.shields.io/badge/unity-000000?style=for-the-badge&logo=unity&logoColor=white"/>
 
 <img src="https://img.shields.io/badge/intellij_idea-000000?style=for-the-badge&logo=intellij-idea&logoColor=white"/>
@@ -67,6 +67,8 @@ Passionate about building scalable applications, modern mobile experiences, and 
 <img src="https://img.shields.io/badge/vscode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
 
 <img src="https://img.shields.io/badge/figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white"/>
 
 </p>
 
@@ -115,6 +117,7 @@ Passionate about building scalable applications, modern mobile experiences, and 
 - VS Code
 - Unity
 - Git & GitHub
+- Canva
 - Figma
 - BlueJ
 - Greenfoot
