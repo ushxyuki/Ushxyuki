@@ -64,6 +64,10 @@ Passionate about building scalable applications, modern mobile experiences, and 
 
 <img src="https://img.shields.io/badge/figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
 
+
+
+
+
 </p>
 
 ---
