@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Parindiya Ushana</h1>
 
 <p align="center">
-Software Developer • Mobile Application Developer • AI & Data Enthusiast
+Software Developer • Mobile Application Developer • AI & Software Engineering Enthusiast
 </p>
 
 <p align="center">
@@ -14,11 +14,11 @@ Passionate about building scalable applications, modern mobile experiences, and 
 
 <p align="center">
 
-<img src="https://streak-stats.demolab.com?user=Ushxyuki&theme=tokyonight"/>
-
 <img src="https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white"/>
 
 <img src="https://img.shields.io/badge/flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/android_studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white"/>
 
 <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white"/>
 
@@ -33,8 +33,6 @@ Passionate about building scalable applications, modern mobile experiences, and 
 <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
 
 <img src="https://img.shields.io/badge/css3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white"/>
 
 <img src="https://img.shields.io/badge/react-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
 
@@ -54,6 +52,8 @@ Passionate about building scalable applications, modern mobile experiences, and 
 
 <img src="https://img.shields.io/badge/unity-000000?style=for-the-badge&logo=unity&logoColor=white"/>
 
+<img src="https://img.shields.io/badge/intellij_idea-000000?style=for-the-badge&logo=intellij-idea&logoColor=white"/>
+
 <img src="https://img.shields.io/badge/BlueJ-1E88E5?style=for-the-badge&logo=java&logoColor=white"/>
 
 <img src="https://img.shields.io/badge/Greenfoot-2E7D32?style=for-the-badge&logo=java&logoColor=white"/>
@@ -66,10 +66,6 @@ Passionate about building scalable applications, modern mobile experiences, and 
 
 <img src="https://img.shields.io/badge/figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
 
-
-
-
-
 </p>
 
 ---
@@ -81,7 +77,7 @@ Passionate about building scalable applications, modern mobile experiences, and 
 </p>
 
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Ushxyuki&theme=tokyonight"/>
+<img src="https://streak-stats.demolab.com?user=Ushxyuki&theme=tokyonight"/>
 </p>
 
 <p align="center">
@@ -107,6 +103,19 @@ Passionate about building scalable applications, modern mobile experiences, and 
 - AI Integrations
 - Scalable Mobile Architectures
 - Modern UI/UX Design
+
+---
+
+# 🛠 Development Tools
+
+- Android Studio
+- IntelliJ IDEA
+- VS Code
+- Unity
+- Git & GitHub
+- Figma
+- BlueJ
+- Greenfoot
 
 ---
 
