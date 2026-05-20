@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Parindiya Ushana</h1>
 
 <p align="center">
-Software Developer • Mobile App Developer • AI Enthusiast
+Software Developer • Mobile Application Developer • AI & Data Enthusiast
 </p>
 
 <p align="center">
-Passionate about building scalable applications and modern digital experiences.
+Passionate about building scalable applications, modern mobile experiences, and intelligent software solutions.
 </p>
 
 ---
@@ -42,7 +42,19 @@ Passionate about building scalable applications and modern digital experiences.
 
 <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
 
+<img src="https://img.shields.io/badge/sql-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
+
 <img src="https://img.shields.io/badge/sqlite-07405E?style=for-the-badge&logo=sqlite&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/google_cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/apache-D22128?style=for-the-badge&logo=apache&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/unity-000000?style=for-the-badge&logo=unity&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/BlueJ-1E88E5?style=for-the-badge&logo=java&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Greenfoot-2E7D32?style=for-the-badge&logo=java&logoColor=white"/>
 
 <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
 
@@ -79,6 +91,7 @@ Passionate about building scalable applications and modern digital experiences.
 - 💻 Software Engineering
 - 🎨 UI/UX Focused Applications
 - 🌐 Web Development
+- 🎮 Game Development
 
 ---
 
@@ -87,6 +100,7 @@ Passionate about building scalable applications and modern digital experiences.
 - Advanced Flutter Development
 - AI Integrations
 - Scalable Mobile Architectures
+- Modern UI/UX Design
 
 ---
 
