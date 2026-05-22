@@ -1,89 +1,125 @@
-<p align="center">
-  <img src="assets/banner.gif" width="100%" />
-</p>
-
 <h1 align="center">Hi 👋, I'm Parindiya Ushana</h1>
 
-<h3 align="center">
+<p align="center">
 Software Developer • Mobile Application Developer • AI & Software Engineering Enthusiast
-</h3>
+</p>
 
 <p align="center">
-Passionate about building modern mobile applications, clean UI/UX experiences, and intelligent software solutions.
+Passionate about building scalable applications, modern mobile experiences, and intelligent software solutions.
 </p>
 
 ---
 
-## 💻 Tech Stack
+# 💻 Tech Stack
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/android_studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+
+<img src="https://img.shields.io/badge/typescript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/php-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/css3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/react-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+
+<img src="https://img.shields.io/badge/react_native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+
+<img src="https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black"/>
+
+<img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/sql-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/sqlite-07405E?style=for-the-badge&logo=sqlite&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/google_cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/apache-D22128?style=for-the-badge&logo=apache&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+
+<img src="https://img.shields.io/badge/unity-000000?style=for-the-badge&logo=unity&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/intellij_idea-000000?style=for-the-badge&logo=intellij-idea&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/BlueJ-1E88E5?style=for-the-badge&logo=java&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Greenfoot-2E7D32?style=for-the-badge&logo=java&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/vscode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white"/>
+
 </p>
 
 ---
 
-## 🚀 Featured Areas
+# 🚀 Featured Areas
 
-- 📱 Mobile Application Development  
-- 🤖 Artificial Intelligence Projects  
-- 💻 Software Engineering  
-- 🎨 UI/UX Focused Applications  
-- 🌐 Web Development  
-- 🎮 Game Development  
-
----
-
-## 🌱 Currently Learning
-
-- Advanced Flutter Development  
-- AI Integrations  
-- Firebase and Cloud Features  
-- Scalable Mobile App Architecture  
-- Modern UI/UX Design  
+- 📱 Mobile Application Development
+- 🤖 Artificial Intelligence Projects
+- 💻 Software Engineering
+- 🎨 UI/UX Focused Applications
+- 🌐 Web Development
+- 🎮 Game Development
 
 ---
 
-## 🏆 GitHub Trophies
+# 🌱 Currently Learning
+
+- Advanced Flutter Development
+- AI Integrations
+- Scalable Mobile Architectures
+- Modern UI/UX Design
+
+---
+
+# 🛠 Development Tools
+
+- Android Studio
+- IntelliJ IDEA
+- VS Code
+- Unity
+- Git & GitHub
+- Canva
+- Figma
+- BlueJ
+- Greenfoot
+
+---
+
+# 🌐 Connect With Me
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Ushxyuki&theme=radical&no-frame=true&margin-w=10&margin-h=10" />
+
+<a href="https://github.com/Ushxyuki">
+<img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
 </p>
 
 ---
 
-## 📊 GitHub Stats
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ushxyuki&show_icons=true&theme=radical" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ushxyuki&theme=radical" width="48%" />
-</p>
-
----
-
-## 🌐 Connect With Me
-
-<p align="center">
-  <a href="https://github.com/Ushxyuki">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-</p>
-
----
-
-<p align="center">
-✨ Thanks for visiting my profile ✨
+Thanks for visiting my profile ✨
 </p>
