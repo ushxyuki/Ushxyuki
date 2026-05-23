@@ -7,7 +7,7 @@
 </h1>
 
 <p align="center">
-💜 Flutter Developer • Full Stack Developer • AI Engineer • UI/UX Designer 💜
+💜 Flutter Developer • Full Stack Developer • AI Developer • UI/UX Designer 💜
 </p>
 
 <p align="center">
