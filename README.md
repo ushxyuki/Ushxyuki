@@ -3,7 +3,9 @@
 </p>
 
 
-<h1 align="center">Hi 👋, I'm Parindiya Ushana</h1>
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&duration=3000&pause=1000&color=C770F0&center=true&vCenter=true&width=700&lines=Hi+👋+I'm+Parindiya+Ushana;Flutter+Developer;AI+%26+Software+Engineering;Cyberpunk+UI+Designer" />
+</h1>
 
 <p align="center">
 Software Developer • Mobile Application Developer • AI & Software Engineering Enthusiast
