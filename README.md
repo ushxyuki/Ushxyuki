@@ -82,19 +82,7 @@ Passionate about building scalable applications, futuristic interfaces, intellig
 
 </p>
 
----
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ushxyuki&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=ushxyuki&theme=tokyonight&hide_border=true&background=0D1117"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ushxyuki&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
-</p>
 
 ---
 
