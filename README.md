@@ -1,7 +1,6 @@
 <p align="center">
-  <img src="./d1d64d31-2670-4ecb-84fb-e13e019102c0.png" width="1000">
+  <img src="./d1d64d31-2670-4ecb-84fb-e13e019102c0.png">
 </p>
-
 
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=34&duration=2800&pause=900&color=C770F0&center=true&vCenter=true&width=1100&lines=Hi+👋+I'm+Parindiya+Ushana;Flutter+%26+Mobile+Application+Developer+📱;Full+Stack+Developer+💻;AI+%26+Software+Engineering+Enthusiast+🤖;UI%2FUX+Designer+🎨;Frontend+%26+Web+Developer+🌐;Building+Creative+%26+Scalable+Applications+🚀;Passionate+About+Modern+Tech+%26+Innovation+💜" />
@@ -17,7 +16,6 @@ Passionate about building scalable applications, modern mobile experiences, and 
 
 ---
 
-```md id="h3j9sx"
 # 💻 Tech Stack
 
 <h3 align="center">📱 Mobile Development</h3>
@@ -131,16 +129,26 @@ Passionate about building scalable applications, modern mobile experiences, and 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ushxyuki&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" />
 </p>
-```
 
-# 🚀 Featured Areas
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=ushxyuki&theme=tokyonight&hide_border=true&background=0D1117"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ushxyuki&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
+</p>
+
+---
+
+# 🚀 What I Do
 
 - 📱 Mobile Application Development
 - 🤖 Artificial Intelligence Projects
 - 💻 Software Engineering
 - 🎨 UI/UX Focused Applications
-- 🌐 Web Development
-- 🎮 Game Development
+- 🌐 Full Stack Web Development
+- 🚀 Frontend Development
+- 🧠 Creative & Interactive Coding
 
 ---
 
@@ -150,7 +158,7 @@ Passionate about building scalable applications, modern mobile experiences, and 
 - AI Integrations
 - Scalable Mobile Architectures
 - Modern UI/UX Design
-
+- Full Stack Development
 
 ---
 
@@ -158,7 +166,7 @@ Passionate about building scalable applications, modern mobile experiences, and 
 
 <p align="center">
 
-<a href="https://github.com/Ushxyuki">
+<a href="https://github.com/ushxyuki">
 <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
@@ -167,5 +175,6 @@ Passionate about building scalable applications, modern mobile experiences, and 
 ---
 
 <p align="center">
-Thanks for visiting my profile ✨
+Thanks for visiting my profile ✨💜
 </p>
+
