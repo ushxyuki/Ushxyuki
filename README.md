@@ -97,19 +97,6 @@ Passionate about building scalable applications, modern mobile experiences, and 
 - Scalable Mobile Architectures
 - Modern UI/UX Design
 
----
-
-# 🛠 Development Tools
-
-- Android Studio
-- IntelliJ IDEA
-- VS Code
-- Unity
-- Git & GitHub
-- Canva
-- Figma
-- BlueJ
-- Greenfoot
 
 ---
 
