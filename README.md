@@ -4,7 +4,7 @@
 
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&duration=3000&pause=1000&color=C770F0&center=true&vCenter=true&width=700&lines=Hi+👋+I'm+Parindiya+Ushana;Flutter+Developer;AI+%26+Software+Engineering;Cyberpunk+UI+Designer" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=34&duration=2800&pause=900&color=C770F0&center=true&vCenter=true&width=1100&lines=Hi+👋+I'm+Parindiya+Ushana;Flutter+%26+Mobile+Application+Developer+📱;Full+Stack+Developer+💻;AI+%26+Software+Engineering+Enthusiast+🤖;UI%2FUX+Designer+🎨;Frontend+%26+Web+Developer+🌐;Building+Creative+%26+Scalable+Applications+🚀;Passionate+About+Modern+Tech+%26+Innovation+💜" />
 </h1>
 
 <p align="center">
