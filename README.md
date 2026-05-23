@@ -83,7 +83,9 @@ Passionate about building scalable applications, futuristic interfaces, intellig
 </p>
 
 
-
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
+</p>
 ---
 
 # 🚀 What I Do
