@@ -14,7 +14,7 @@
 Passionate about building scalable applications, futuristic interfaces, intelligent systems, and immersive digital experiences.
 </p>
 
----
+
 
 <h2 align="center">💻 Tech Stack</h2>
 
