@@ -79,6 +79,10 @@ Passionate about building scalable applications, modern mobile experiences, and 
 
 </p>
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ushxyuki&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" />
+</p>
+
 ---
 
 # 🚀 Featured Areas
