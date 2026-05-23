@@ -3,20 +3,20 @@
 </p>
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=34&duration=2800&pause=900&color=C770F0&center=true&vCenter=true&width=1100&lines=Hi+👋+I'm+Parindiya+Ushana;Flutter+%26+Mobile+Application+Developer+📱;Full+Stack+Developer+💻;AI+%26+Software+Engineering+Enthusiast+🤖;UI%2FUX+Designer+🎨;Frontend+%26+Web+Developer+🌐;Building+Creative+%26+Scalable+Applications+🚀;Passionate+About+Modern+Tech+%26+Innovation+💜" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=34&duration=2800&pause=900&color=C770F0&center=true&vCenter=true&width=1100&lines=Hi+👋+I'm+Ushxyuki;Flutter+%26+Mobile+Application+Developer+📱;Full+Stack+Developer+💻;AI+%26+Software+Engineering+Enthusiast+🤖;UI%2FUX+Designer+🎨;Frontend+%26+Web+Developer+🌐;Building+Creative+%26+Scalable+Applications+🚀;Passionate+About+Modern+Tech+%26+Innovation+💜" />
 </h1>
 
 <p align="center">
-Software Developer • Mobile Application Developer • AI & Software Engineering Enthusiast
+💜 Software Developer • Full Stack Developer • Mobile App Developer • Creative UI/UX Designer 💜
 </p>
 
 <p align="center">
-Passionate about building scalable applications, modern mobile experiences, and intelligent software solutions.
+Passionate about building scalable applications, futuristic interfaces, intelligent systems, and immersive digital experiences.
 </p>
 
 ---
 
-# 💻 Tech Stack
+<h2 align="center">💻 Tech Stack</h2>
 
 <p align="center">
 
@@ -84,6 +84,19 @@ Passionate about building scalable applications, modern mobile experiences, and 
 
 ---
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ushxyuki&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=ushxyuki&theme=tokyonight&hide_border=true&background=0D1117"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ushxyuki&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
+</p>
+
+---
 
 # 🚀 What I Do
 
@@ -94,6 +107,7 @@ Passionate about building scalable applications, modern mobile experiences, and 
 - 🌐 Full Stack Web Development
 - 🚀 Frontend Development
 - 🧠 Creative & Interactive Coding
+- ✨ Modern & Cyberpunk Inspired Interfaces
 
 ---
 
@@ -104,6 +118,7 @@ Passionate about building scalable applications, modern mobile experiences, and 
 - Scalable Mobile Architectures
 - Modern UI/UX Design
 - Full Stack Development
+- Interactive Web Animations
 
 ---
 
@@ -120,5 +135,5 @@ Passionate about building scalable applications, modern mobile experiences, and 
 ---
 
 <p align="center">
-Thanks for visiting my profile ✨💜
+✨ Thanks for visiting my profile 💜
 </p>
