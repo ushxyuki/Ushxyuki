@@ -1,3 +1,9 @@
+<p align="center">
+  <img src="banner.png" width="100%">
+</p>
+
+
+
 <h1 align="center">Hi 👋, I'm Parindiya Ushana</h1>
 
 <p align="center">
