@@ -7,7 +7,7 @@
 </h1>
 
 <p align="center">
-💜 Software Developer • Full Stack Developer • Mobile App Developer • Creative UI/UX Designer 💜
+💜 Flutter Developer • Full Stack Developer • AI Engineer • UI/UX Designer 💜
 </p>
 
 <p align="center">
